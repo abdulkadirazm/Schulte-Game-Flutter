@@ -10,9 +10,9 @@ A new Flutter project. Developed for the Istanbul University - Cerrahpasa Mobile
 |-------------|-------------|
 | <img src="https://github.com/abdulkadirazm/Schulte-Game-Flutter/blob/main/images/Screenshot3.jpg?raw=true" width="250"> | <img src="https://github.com/abdulkadirazm/Schulte-Game-Flutter/blob/main/images/Screenshot4.jpg?raw=true" width="250"> |
 
-|  Best Score |             |
-|-------------|-------------|
-| <img src="https://github.com/abdulkadirazm/Schulte-Game-Flutter/blob/main/images/Screenshot1.jpg?raw=true" width="250"> | <img src="" width="250"> |
+|  Best Score |
+|-------------|
+| <img src="https://github.com/abdulkadirazm/Schulte-Game-Flutter/blob/main/images/Screenshot1.jpg?raw=true" width="250"> |
 
 ## Getting Started
 
